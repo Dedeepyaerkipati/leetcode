@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Dedeepyaerkipati/leetcode/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Dedeepyaerkipati/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/Dedeepyaerkipati/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Dedeepyaerkipati/leetcode/tree/master/0219-contains-duplicate-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3904-smallest-stable-index-ii](https://github.com/Dedeepyaerkipati/leetcode/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
