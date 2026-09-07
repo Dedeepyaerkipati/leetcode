@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Dedeepyaerkipati/leetcode/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Dedeepyaerkipati/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Dedeepyaerkipati/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Dedeepyaerkipati/leetcode/tree/master/0115-distinct-subsequences) |
 | [1678-goal-parser-interpretation](https://github.com/Dedeepyaerkipati/leetcode/tree/master/1678-goal-parser-interpretation) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Dedeepyaerkipati/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Dynamic Programming
 |  |
 | ------- |
