@@ -32,12 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Dedeepyaerkipati/leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Dedeepyaerkipati/leetcode/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dedeepyaerkipati/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0940-distinct-subsequences-ii](https://github.com/Dedeepyaerkipati/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1678-goal-parser-interpretation](https://github.com/Dedeepyaerkipati/leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Dedeepyaerkipati/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Dedeepyaerkipati/leetcode/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/Dedeepyaerkipati/leetcode/tree/master/0940-distinct-subsequences-ii) |
 ## Two Pointers
 |  |
 | ------- |
