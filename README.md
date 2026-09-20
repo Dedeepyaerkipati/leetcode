@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Dedeepyaerkipati/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1678-goal-parser-interpretation](https://github.com/Dedeepyaerkipati/leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Dedeepyaerkipati/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3498-reverse-degree-of-a-string](https://github.com/Dedeepyaerkipati/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Dedeepyaerkipati/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Dedeepyaerkipati/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
