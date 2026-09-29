@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Dedeepyaerkipati/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1539-kth-missing-positive-number](https://github.com/Dedeepyaerkipati/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Dedeepyaerkipati/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Dedeepyaerkipati/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/Dedeepyaerkipati/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dedeepyaerkipati/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3904-smallest-stable-index-ii](https://github.com/Dedeepyaerkipati/leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Dedeepyaerkipati/leetcode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Dedeepyaerkipati/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Dedeepyaerkipati/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Dedeepyaerkipati/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/Dedeepyaerkipati/leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Two Pointers
 |  |
@@ -134,4 +136,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dedeepyaerkipati/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Dedeepyaerkipati/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Matrix
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Dedeepyaerkipati/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
