@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Dedeepyaerkipati/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dedeepyaerkipati/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dedeepyaerkipati/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Dedeepyaerkipati/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/Dedeepyaerkipati/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Dedeepyaerkipati/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dedeepyaerkipati/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -79,10 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Dedeepyaerkipati/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Dedeepyaerkipati/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dedeepyaerkipati/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Dedeepyaerkipati/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dedeepyaerkipati/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Dedeepyaerkipati/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/Dedeepyaerkipati/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dedeepyaerkipati/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dedeepyaerkipati/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dedeepyaerkipati/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/Dedeepyaerkipati/leetcode/tree/master/1096-brace-expansion-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Dedeepyaerkipati/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dedeepyaerkipati/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Greedy
 |  |
