@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Dedeepyaerkipati/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2747-count-zero-request-servers](https://github.com/Dedeepyaerkipati/leetcode/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Dedeepyaerkipati/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Dedeepyaerkipati/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3524-find-x-value-of-array-i](https://github.com/Dedeepyaerkipati/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dedeepyaerkipati/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Dedeepyaerkipati/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
