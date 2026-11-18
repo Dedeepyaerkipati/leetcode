@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/Dedeepyaerkipati/leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Dedeepyaerkipati/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Dedeepyaerkipati/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Dedeepyaerkipati/leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3498-reverse-degree-of-a-string](https://github.com/Dedeepyaerkipati/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
